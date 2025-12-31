@@ -18,5 +18,6 @@ The objective of the task is to create a Java program that can create, read, wri
 In this task, Java’s built-in I/O classes such as FileWriter, FileReader, BufferedWriter, and BufferedReader are used to perform file operations efficiently.
 The program first creates a text file and writes data into it. Then, it reads the content of the file and displays it on the console. 
 Finally, the program modifies the existing file by appending new data without deleting the previous content.#OUTPUT
+<img width="1882" height="1017" alt="Image" src="https://github.com/user-attachments/assets/faa10e25-29b6-4076-b2b2-01c27038a925" />
 
 
